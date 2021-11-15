@@ -15,6 +15,6 @@ function showList() {
         }
     }
     console.log("Hi")
-    xhttp.open("GET", "../list.json", true);
+    xhttp.open("GET", "https://raw.githubusercontent.com/vignesh-k07/Grocery-Shopping/main/list.json", true);
     xhttp.send();
 }
