@@ -1,0 +1,109 @@
+{
+    "list": [
+        {
+            "item": "Rice",
+            "quantity": "15",
+            "unit": "kg",
+            "department": "Grocery",
+            "notes": "Matta"
+        },
+        {
+            "item": "Wheat Flour",
+            "quantity": "5",
+            "unit": "kg",
+            "department": "Grocery",
+            "notes": "Ashirvad"
+        },
+        {
+            "item": "Rice Flour",
+            "quantity": "5",
+            "unit": "kg",
+            "department": "Grocery",
+            "notes": "Nirapara"
+        },
+        {
+            "item": "Chilly Powder",
+            "quantity": "100",
+            "unit": "gm",
+            "department": "Grocery",
+            "notes": "Kitchen Treasures"
+        },
+        {
+            "item": "Salt",
+            "quantity": "1",
+            "unit": "kg",
+            "department": "Grocery",
+            "notes": "Iodin"
+        },
+        {
+            "item": "Sunflower Oil",
+            "quantity": "1",
+            "unit": "kg",
+            "department": "Grocery",
+            "notes": "Gold Winner"
+        },
+        {
+            "item": "Dates",
+            "quantity": "500",
+            "unit": "gm",
+            "department": "Dry Fruits",
+            "notes": "Fresh"
+        },
+        {
+            "item": "Tomato",
+            "quantity": "1",
+            "unit": "kg",
+            "department": "Vegetables",
+            "notes": "Fresh"
+        },
+        {
+            "item": "Onion",
+            "quantity": "1",
+            "unit": "kg",
+            "department": "Vegetables",
+            "notes": "Fresh"
+        },
+        {
+            "item": "Apple",
+            "quantity": "2",
+            "unit": "kg",
+            "department": "Fruits",
+            "notes": "Fresh"
+        },
+        {
+            "item": "Orange",
+            "quantity": "3",
+            "unit": "kg",
+            "department": "Fruits",
+            "notes": "Fresh"
+        },
+        {
+            "item": "Fish",
+            "quantity": "1",
+            "unit": "kg",
+            "department": "Fish",
+            "notes": "Fresh Ayila"
+        },
+        {
+            "item": "Chicken",
+            "quantity": "2",
+            "unit": "kg",
+            "department": "Meat",
+            "notes": "Nadan Kozhi"
+        },
+        {
+            "item": "Hand Sanitizer",
+            "quantity": "1",
+            "unit": "bottle",
+            "department": "Stationary",
+            "notes": "Dettol"
+        },
+        {
+            "item": "Face Mask",
+            "quantity": "5",
+            "unit": "Nos",
+            "department": "Mask",
+            "notes": "N95"
+        }
+    ]
+}
